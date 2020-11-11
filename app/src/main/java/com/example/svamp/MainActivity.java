@@ -11,4 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+    public static void uselessFunction () {
+        int svamp = 0;
+        String svamp2 = "DEnna funktionen är sämst";
+    }
 }
